@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bijendra Yadav</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Cloud devops**
+- 🌱 I’m currently learning Cloud devops
 
-- 💬 Ask me about **Mern, spring bool**
+- 💬 Ask me about Mern
 
 - 📫 How to reach me **BijendraYadav0724@gmail.com**
 
