@@ -1,33 +1,39 @@
 <h1 align="center">Hi, I'm Bijendra Yadav 👋</h1>
-<h3 align="center">Building my way into MLOps — one pipeline at a time</h3>
+<h3 align="center">Learning MLOps from scratch, out loud, in public</h3>
 
 <p align="center">
-  📍 Kathmandu, Nepal &nbsp;|&nbsp; 🎯 Targeting remote MLOps roles &nbsp;|&nbsp; 🛠️ ~10 hrs/week, learning in public
+  📍 Kathmandu, Nepal &nbsp;|&nbsp; 🎯 Aiming for a remote MLOps role &nbsp;|&nbsp; 🛠️ ~1.5 hrs a day, most days
 </p>
 
 ---
 
-### 🔭 What I'm doing
-I'm on a structured, ~6-month MLOps learning path — Bash & Git → ML fundamentals → Docker → Cloud (AWS/LocalStack) → MLflow → SQL → orchestration → Kubernetes → CI/CD → monitoring. No shortcuts, no tutorial-hell — every concept gets written by hand, explained, and committed.
+### 🔭 What I'm actually doing right now
+About a month into a self-structured MLOps path — no bootcamp, just roadmap.sh and a lot of trial and error. Bash and Git first, then ML fundamentals, Docker, AWS (via LocalStack since a real AWS account isn't easy to get from here), MLflow, and now SQL. Still got Airflow, Kubernetes, CI/CD, and monitoring ahead of me.
 
-- 🐳 Comfortable containerizing ML workflows with **Docker**
-- ☁️ Practicing AWS S3 workflows via **LocalStack** (real boto3/CLI commands, zero cloud cost)
-- 📊 Tracking experiments with **MLflow** (champion/challenger aliases, not deprecated stages)
-- 🗃️ Writing **SQL** to turn relational data into ML-ready feature tables — the unglamorous but critical bridge between "data exists" and "model can use it"
-- 🔜 Next up: Airflow orchestration, Kubernetes, CI/CD with GitHub Actions
+I'm not chasing certificates for this one — every day gets logged, every mistake gets written down so I don't repeat it, and everything gets pushed to GitHub even when the code is rough.
 
-### 💬 Ask me about
-`Docker` · `MLflow` · `sklearn Pipelines` · `SQL for feature engineering` · `AWS via LocalStack`
+- 🐳 Can containerize a basic ML workflow with **Docker** without panicking
+- ☁️ Practicing real **AWS S3** commands through **LocalStack** — no credit card needed, no bill either
+- 📊 Logging experiments in **MLflow**, using aliases instead of the deprecated stage system
+- 🗃️ Writing **SQL** to turn raw tables into something a model can actually train on — this is the part nobody shows you in tutorials
+- 🔜 Next: Airflow, then Kubernetes
+
+### 💬 Happy to talk about
+Docker · MLflow · SQL for feature engineering · sklearn pipelines · getting AWS practice without paying for AWS
 
 ### 📫 Reach me
 **BijendraYadav0724@gmail.com**
 
 ---
 
-### 🧰 Tools I actually use day to day
+### 🧰 What I code with
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
@@ -54,4 +60,4 @@ I'm on a structured, ~6-month MLOps learning path — Bash & Git → ML fundamen
 
 ---
 
-<p align="center"><i>Learning in public, one commit at a time. 🚀</i></p>
+<p align="center"><i>Still figuring a lot of this out. That's kind of the point.</i></p>
